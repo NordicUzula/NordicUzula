@@ -1,8 +1,8 @@
-- 👋 You Hi, I’m @NordicUzula
-- 👀 I am not interested (:   . . .
+- 👋 You Hi, I’m @NordicUzula (404)
+- 👀 Developing and changing as one wishes -_-
 - 🌱 Lifespan development . . .
-- 💞️No collaboration . . .
-- 📫 You can't reach . . .
+- 💞️ Tech lover . . .
+- 📫 Of course we will agree . . .
 
 <!---
 NordicUzula/NordicUzula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
