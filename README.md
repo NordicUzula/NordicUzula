@@ -1,4 +1,4 @@
-- 👋 You Hi, I’m @NordicUzula (404)
+
 - 👀 Developing and changing as one wishes -_-
 - 🌱 Lifespan development . . .
 - 💞️ Tecnología místicar . . .
